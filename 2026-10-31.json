@@ -25,6 +25,12 @@
       "dinner": "no",
       "signup_no": "OSCAR-A08267",
       "signed_at": "2026-10-25T22:18:36+08:00"
+    },
+    {
+      "name": "仓库迁移验证",
+      "dinner": "no",
+      "signup_no": "OSCAR-070F40",
+      "signed_at": "2026-10-26T07:28:15+08:00"
     }
   ]
 }
