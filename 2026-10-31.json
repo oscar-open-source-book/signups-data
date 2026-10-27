@@ -41,8 +41,7 @@
       "name": "王玉鹏",
       "dinner": "no",
       "signup_no": "OSCAR-3B0E11",
-      "signed_at": "2026-10-26T21:40:39+08:00",
-      "cancelled": true
+      "signed_at": "2026-10-26T21:40:39+08:00"
     },
     {
       "name": "fanfan",
@@ -62,14 +61,6 @@
       "signup_no": "OSCAR-0EC447",
       "signed_at": "2026-10-27T19:13:55+08:00",
       "reason": "关系性是我现在较为关注的问题，比如布迪厄关心的关系性的场域分析；Meta 开源 LLaMA、国内\"开源\"与自主可控的政策叙事，是否意味着场域正被更大的权力场（国家、科技巨头）重新结构化？"
-    },
-    {
-      "name": "王玉鹏",
-      "dinner": "yes",
-      "reason": "重新报名测试",
-      "signup_no": "OSCAR-7D6A9D",
-      "signed_at": "2026-10-27T21:02:17+08:00",
-      "cancelled": false
     }
   ]
 }
