@@ -82,6 +82,13 @@
       "signup_no": "OSCAR-7BA68D",
       "signed_at": "2026-10-28T16:14:24+08:00",
       "cancelled": false
+    },
+    {
+      "name": "媛媛",
+      "dinner": "yes",
+      "signup_no": "OSCAR-E9B138",
+      "signed_at": "2026-10-29T10:42:15+08:00",
+      "cancelled": false
     }
   ]
 }
