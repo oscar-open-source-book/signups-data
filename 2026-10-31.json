@@ -96,6 +96,13 @@
       "signup_no": "OSCAR-0623CB",
       "signed_at": "2026-10-30T13:08:02+08:00",
       "cancelled": false
+    },
+    {
+      "name": "杨东杰",
+      "dinner": "yes",
+      "signup_no": "OSCAR-3190EF",
+      "signed_at": "2026-10-31T11:57:13+08:00",
+      "cancelled": false
     }
   ]
 }
