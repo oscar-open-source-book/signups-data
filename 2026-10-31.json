@@ -102,7 +102,8 @@
       "dinner": "yes",
       "signup_no": "OSCAR-3190EF",
       "signed_at": "2026-10-31T11:57:13+08:00",
-      "cancelled": false
+      "cancelled": true,
+      "cancelled_reason": "重复报名（首次联系方式有笔误），以 OSCAR-C4632E 为准"
     },
     {
       "name": "杨东杰",
