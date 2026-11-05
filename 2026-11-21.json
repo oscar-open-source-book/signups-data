@@ -1,0 +1,15 @@
+{
+  "event": "2026-11-21",
+  "deadline": "2026-11-21T14:00:00+08:00",
+  "updated": null,
+  "signups": [
+    {
+      "name": "链路测试",
+      "dinner": "no",
+      "reason": "端到端验证 2026-11-21 报名链路",
+      "signup_no": "OSCAR-62C1D7",
+      "signed_at": "2026-11-05T23:53:23+08:00",
+      "cancelled": false
+    }
+  ]
+}
