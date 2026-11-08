@@ -5,8 +5,8 @@
   "signups": [
     {
       "name": "「开源之道」·适兕",
-      "dinner": "no",
-      "reason": "开源项目可以规划吗？",
+      "dinner": "yes",
+      "reason": "开源项目可以规划吗？还是随遇而安？",
       "signup_no": "OSCAR-8F5504",
       "signed_at": "2026-11-08T11:13:35+08:00",
       "cancelled": false
