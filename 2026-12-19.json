@@ -2,5 +2,13 @@
   "event": "2026-12-19",
   "deadline": "2026-12-19T14:00:00+08:00",
   "updated": null,
-  "signups": []
+  "signups": [
+    {
+      "name": "赵思明",
+      "dinner": "yes",
+      "signup_no": "OSCAR-2B8910",
+      "signed_at": "2026-11-15T17:27:53+08:00",
+      "cancelled": false
+    }
+  ]
 }
